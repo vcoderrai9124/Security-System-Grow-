@@ -1,2 +1,3 @@
-# Security-System-Grow-
-This Security system provides location,siren &amp; message sending to the guardians
+# Women-safety-web-application
+#GROW
+A Dynamic web project for women safety and security with auto location tracking.
